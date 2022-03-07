@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "928709852121",
+    "project_id": "origami-1999ks",
+    "storage_bucket": "origami-1999ks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928709852121:android:d77c823050d1014a86b7c8",
+        "android_client_info": {
+          "package_name": "com.example.origami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928709852121-5n170lac9prhst38ro20gp86gm9r5v0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.origami",
+            "certificate_hash": "957fccf1b4bf1c335c90aed311ffe20b4dcc083c"
+          }
+        },
+        {
+          "client_id": "928709852121-fusb8ck44n7udiatcl4gng1eiv9jet59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJWgoF4UvTSXADlF6FUB8t5NyeCHomYlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928709852121-fusb8ck44n7udiatcl4gng1eiv9jet59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
